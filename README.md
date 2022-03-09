@@ -5,7 +5,7 @@ Simple monitor and control for Raspberry Pi over SSH
 
 ## German (English version below)
 Dieses Tool wurde aus der Not gebohren, einen Raspberry Pi runterzufahren bevor die Speisung ausgeschaltet wird.
-In meinem Fall läuft der RPI in einer Laserschneidmaschine mit LaserWeb. Dieses geniale Tool bietet aber keine Möglichkeit den RPI runterzufahren.
+In meinem Fall läuft der RPI in einer Laserschneidmaschine mit [LaserWeb](https://https://github.com/LaserWeb/LaserWeb4). Dieses geniale Tool bietet aber keine Möglichkeit den RPI runterzufahren.
 
 ### Funktion:
 Das Tool stellt eine Verbindung zu einem Raspberry Pi über SSH her.
