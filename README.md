@@ -16,8 +16,9 @@ Während dem Betrieb wird die aktuelle CPU Temperatur angezeigt.
 ### Realisierung
 Das Tool ist in Python 3.10.x geschrieben und ist erst mein zweites Programm in dieser Sprache.
 Es dürfte also einiges geben, was nicht perfekt gelöst ist..
-Es werden die Module [pysimplegui](https://https://pysimplegui.readthedocs.io/en/latest/) und 
-Die .exe Datei ist für den Betrieb ohne installiertem Python auf jedem Windowsrechner gedacht.
+Es werden die Module [pysimplegui](https://https://pysimplegui.readthedocs.io/en/latest/) und [paramiko](https://https://https://www.paramiko.org/) verwendet.
+
+Die .exe Datei ist für den Betrieb auf einem Windowsrechner ohne installiertem Python gedacht.
 Obwohl diese Version recht gross ist, wird zur Laufzeit sehr wenig Ressourcen verwendet.
 
 ### Settings
@@ -48,6 +49,8 @@ The RPI can then be restarted or shut down via the menu.
 ### Realization
 The tool is written in Python 3.10.x and is only my second program in this language.
 So there might be some things that haven't been solved perfectly.
+The modules [pysimplegui](https://https://pysimplegui.readthedocs.io/en/latest/) and [paramiko](https://https://https://www.paramiko.org/ ) are used.
+
 The .exe file is intended for use on any Windows computer without Python installed.
 Although this version is quite large, very few resources are used at runtime.
 
