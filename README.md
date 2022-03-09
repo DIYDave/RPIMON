@@ -21,7 +21,7 @@ Obwohl diese Version sehr gross ist, wird zur Laufzeit sehr wenig Ressourcen ver
 
 ### Settings
 Beim ersten Start wird die Datei "settings.txt" erzeugt.
-Diese Datei im JSON Format muss an die Einstellungen des verwendeten RPI angepasst werden .
+Diese Datei im JSON Format muss mit einem Texteditor an die Einstellungen des verwendeten RPI angepasst werden .
 Das Format darf dabei nicht geändert werden. (Z.B. Anführungszeichen)
 Inhalt:
 ```
