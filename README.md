@@ -1,5 +1,7 @@
 # RPIMON
 Simple monitor and control for Raspberry Pi over SSH
+<br />
+![alt tag](https://github.com/DIYDave/RPIMON/Ansicht.jpg)
 
 ## German (English version below)
 Dieses Tool wurde aus der Not gebohren, einen Raspberry Pi runterzufahren bevor die Speisung ausgeschaltet wird.
