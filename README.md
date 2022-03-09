@@ -16,6 +16,7 @@ Während dem Betrieb wird die aktuelle CPU Temperatur angezeigt.
 ### Realisierung
 Das Tool ist in Python 3.10.x geschrieben und ist erst mein zweites Programm in dieser Sprache.
 Es dürfte also einiges geben, was nicht perfekt gelöst ist..
+Es werden die Module [pysimplegui](https://https://pysimplegui.readthedocs.io/en/latest/) und 
 Die .exe Datei ist für den Betrieb ohne installiertem Python auf jedem Windowsrechner gedacht.
 Obwohl diese Version recht gross ist, wird zur Laufzeit sehr wenig Ressourcen verwendet.
 
